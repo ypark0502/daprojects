@@ -8,5 +8,5 @@
 * Microsoft Excel (XLOOKUP, IF, INDEX, MATCH, PIVOT TABLES, SLICERS, TIMELINE, BAR AND LINE CHARTS)
 ## [HR Wellness Incentive Analysis and Dashboard](https://github.com/ypark0502/hr-analysis)
 * SQL Server, Power BI
-## [Bike Share Analysis](https://github.com/ypark0502/bikeshare-analysis)
+## [Bike Share Analysis and Dashboard](https://github.com/ypark0502/bikeshare-analysis)
 * SQL Server, Power BI, Microsoft Excel
