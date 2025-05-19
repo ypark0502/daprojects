@@ -1,5 +1,7 @@
 # Data Analysis Projects Repository
 
+## [Global Layoffs Exploratory Data Analysis](https://github.com/ypark0502/layoffs-eda)
+* SQL Server
 ## [Global Layoffs Data Cleaning](https://github.com/ypark0502/layoffs-cleaning)
 * SQL Server
 ## [FRED Economic Data Analysis](https://github.com/ypark0502/fred-analysis)
